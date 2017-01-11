@@ -4,7 +4,8 @@ from bigchaindb.web.views import (
     blocks,
     info,
     statuses,
-    transactions as tx, unspents,
+    transactions as tx,
+    unspents,
 )
 
 
